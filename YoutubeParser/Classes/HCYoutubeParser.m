@@ -153,6 +153,9 @@
                             }
                         }
                         
+                        
+                        
+                        /*
                         // add some extra information about this video to the dictionary we pass back to save on the amounts of network requests
                         if (videoDictionary.count > 0)
                         {
@@ -172,7 +175,7 @@
                             }
                             
                             [videoDictionary setObject:optionsDict forKey:@"moreInfo"];
-                        }
+                        }*/
                         
                         data = videoDictionary;
                     }
